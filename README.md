@@ -1,2 +1,2 @@
 # hashtagprogramacao
-Estudos na Escola de Programação Hashtag
+Estudos na Escola de Programação Hashtag!
